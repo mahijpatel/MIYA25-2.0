@@ -1,0 +1,467 @@
+{
+  "city": "Bhavnagar",
+  "state": "Gujarat",
+  "country": "India",
+  "center": {
+    "latitude": 21.7645,
+    "longitude": 72.1519
+  },
+  "hospitals": [
+    {
+      "name": "Sir T Hospital (Government Hospital)",
+      "type": "Government",
+      "address": "Jail Road, Bhavnagar",
+      "phone": "0278-2519999",
+      "latitude": 21.7712,
+      "longitude": 72.1493
+    },
+    {
+      "name": "Bhavnagar Medical College Hospital",
+      "type": "Government",
+      "address": "Atabhai Road, Bhavnagar",
+      "phone": "0278-2429111",
+      "latitude": 21.766,
+      "longitude": 72.1502
+    },
+    {
+      "name": "HCG Cancer Centre Bhavnagar",
+      "type": "Private",
+      "address": "Waghawadi Road, Bhavnagar",
+      "phone": "0278-6613000",
+      "latitude": 21.758,
+      "longitude": 72.1601
+    },
+    {
+      "name": "Shree Krishna Hospital",
+      "type": "Private",
+      "address": "Kaliyabid, Bhavnagar",
+      "phone": "0278-2567890",
+      "latitude": 21.7699,
+      "longitude": 72.1449
+    },
+    {
+      "name": "Sterling Multispeciality Hospital",
+      "type": "Private",
+      "address": "Waghawadi Road, Bhavnagar",
+      "phone": "0278-2560000",
+      "latitude": 21.7623,
+      "longitude": 72.1587
+    }
+  ],
+  "primary_health_centres": [
+    {
+      "name": "Urban Health Centre Ghogha Circle",
+      "address": "Ghogha Circle, Bhavnagar",
+      "phone": "0278-2210012",
+      "latitude": 21.7735,
+      "longitude": 72.1478
+    },
+    {
+      "name": "PHC Vidyanagar",
+      "address": "Vidyanagar, Bhavnagar",
+      "phone": "0278-2540021",
+      "latitude": 21.755,
+      "longitude": 72.142
+    },
+    {
+      "name": "PHC Sardarnagar",
+      "address": "Sardarnagar, Bhavnagar",
+      "phone": "0278-2530045",
+      "latitude": 21.7802,
+      "longitude": 72.1465
+    },
+    {
+      "name": "PHC Chitra",
+      "address": "Chitra, Bhavnagar",
+      "phone": "0278-2670089",
+      "latitude": 21.7401,
+      "longitude": 72.1355
+    }
+  ],
+  "government_offices": [
+    {
+      "name": "Bhavnagar Collector Office",
+      "address": "Kothi Road, Bhavnagar",
+      "phone": "0278-2426532",
+      "latitude": 21.7695,
+      "longitude": 72.1508
+    },
+    {
+      "name": "District Panchayat Office Bhavnagar",
+      "address": "Panchayat Bhavan, Bhavnagar",
+      "phone": "0278-2426301",
+      "latitude": 21.7688,
+      "longitude": 72.1495
+    },
+    {
+      "name": "Regional Transport Office (RTO) Bhavnagar",
+      "address": "RTO Circle, Bhavnagar",
+      "phone": "0278-2430120",
+      "latitude": 21.7523,
+      "longitude": 72.161
+    },
+    {
+      "name": "Bhavnagar District Court",
+      "address": "Court Road, Bhavnagar",
+      "phone": "0278-2426010",
+      "latitude": 21.7671,
+      "longitude": 72.1521
+    }
+  ],
+  "municipal_offices": [
+    {
+      "name": "Bhavnagar Municipal Corporation (BMC) Head Office",
+      "address": "Ganga Jalia Talav, Bhavnagar",
+      "phone": "0278-2519500",
+      "latitude": 21.7735,
+      "longitude": 72.15
+    },
+    {
+      "name": "BMC Ward Office - Kaliyabid",
+      "address": "Kaliyabid, Bhavnagar",
+      "phone": "0278-2519511",
+      "latitude": 21.7705,
+      "longitude": 72.1452
+    },
+    {
+      "name": "BMC Ward Office - Vidyanagar",
+      "address": "Vidyanagar, Bhavnagar",
+      "phone": "0278-2519522",
+      "latitude": 21.7555,
+      "longitude": 72.1425
+    }
+  ],
+  "fire_stations": [
+    {
+      "name": "Bhavnagar Municipal Fire Brigade - HQ",
+      "address": "Ganga Jalia Talav, Bhavnagar",
+      "phone": "101",
+      "latitude": 21.7738,
+      "longitude": 72.1505
+    },
+    {
+      "name": "Fire Station - Waghawadi Road",
+      "address": "Waghawadi Road, Bhavnagar",
+      "phone": "0278-2560101",
+      "latitude": 21.761,
+      "longitude": 72.1595
+    },
+    {
+      "name": "Fire Station - Ghogha Road",
+      "address": "Ghogha Road, Bhavnagar",
+      "phone": "0278-2210101",
+      "latitude": 21.7802,
+      "longitude": 72.1602
+    }
+  ],
+  "police_stations": [
+    {
+      "name": "Bhavnagar City B Division Police Station",
+      "address": "Darbargadh, Bhavnagar",
+      "phone": "0278-2426200",
+      "latitude": 21.7702,
+      "longitude": 72.1487
+    },
+    {
+      "name": "Kaliyabid Police Station",
+      "address": "Kaliyabid, Bhavnagar",
+      "phone": "0278-2567200",
+      "latitude": 21.7691,
+      "longitude": 72.1441
+    },
+    {
+      "name": "Ghogha Circle Police Station",
+      "address": "Ghogha Circle, Bhavnagar",
+      "phone": "0278-2210200",
+      "latitude": 21.774,
+      "longitude": 72.148
+    },
+    {
+      "name": "Sardarnagar Police Station",
+      "address": "Sardarnagar, Bhavnagar",
+      "phone": "0278-2530200",
+      "latitude": 21.7795,
+      "longitude": 72.147
+    }
+  ],
+  "parks_and_gardens": [
+    {
+      "name": "Victoria Park",
+      "description": "One of the oldest and largest parks in Bhavnagar with rich birdlife and old banyan trees.",
+      "latitude": 21.758,
+      "longitude": 72.1435
+    },
+    {
+      "name": "Gandhi Smruti Garden",
+      "description": "A memorial garden commemorating Mahatma Gandhi with walking trails.",
+      "latitude": 21.7668,
+      "longitude": 72.1512
+    },
+    {
+      "name": "Nilambag Garden",
+      "description": "Landscaped garden adjoining the historic Nilambag Palace.",
+      "latitude": 21.7601,
+      "longitude": 72.1465
+    },
+    {
+      "name": "Bhavnagar Children's Park",
+      "description": "A family-friendly park with play areas for children.",
+      "latitude": 21.7649,
+      "longitude": 72.1548
+    }
+  ],
+  "lakes_and_water_bodies": [
+    {
+      "name": "Gaurishankar Lake (Bor Talav)",
+      "description": "A large historic lake in the heart of the city, popular for evening walks.",
+      "latitude": 21.7735,
+      "longitude": 72.1498
+    },
+    {
+      "name": "Khodiyar Talav",
+      "description": "A community water tank associated with the Khodiyar Mata temple.",
+      "latitude": 21.781,
+      "longitude": 72.162
+    },
+    {
+      "name": "Factory Area Pond",
+      "description": "A local water body used for groundwater recharge on the city's outskirts.",
+      "latitude": 21.7455,
+      "longitude": 72.139
+    }
+  ],
+  "tourist_places": [
+    {
+      "name": "Nilambag Palace",
+      "description": "A 19th-century heritage palace of the former Bhavnagar princely state, now partly a heritage hotel.",
+      "latitude": 21.7598,
+      "longitude": 72.1462
+    },
+    {
+      "name": "Takhteshwar Temple",
+      "description": "A hilltop Shiva temple offering panoramic views of the city and the Gulf of Khambhat.",
+      "latitude": 21.7717,
+      "longitude": 72.1543
+    },
+    {
+      "name": "Gandhi Smruti and Barton Museum",
+      "description": "A museum showcasing regional history, art and Gandhian heritage.",
+      "latitude": 21.7665,
+      "longitude": 72.1509
+    },
+    {
+      "name": "Velavadar Blackbuck National Park",
+      "description": "A grassland national park near Bhavnagar known for blackbucks and wolves.",
+      "latitude": 21.8371,
+      "longitude": 72.0128
+    },
+    {
+      "name": "Alang Ship Breaking Yard",
+      "description": "One of the world's largest ship recycling yards, located near Bhavnagar.",
+      "latitude": 21.4159,
+      "longitude": 72.1934
+    }
+  ],
+  "emergency_contacts": [
+    {
+      "service": "Police",
+      "number": "100"
+    },
+    {
+      "service": "Fire Brigade",
+      "number": "101"
+    },
+    {
+      "service": "Ambulance",
+      "number": "108"
+    },
+    {
+      "service": "Disaster Management Helpline",
+      "number": "1077"
+    },
+    {
+      "service": "Women Helpline",
+      "number": "181"
+    },
+    {
+      "service": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "service": "Bhavnagar Municipal Corporation Control Room",
+      "number": "0278-2519500"
+    }
+  ],
+  "nearby_ngos": [
+    {
+      "name": "Bhavnagar Nature Club",
+      "focus": "Wildlife and environment awareness",
+      "contact": "info@bhavnagarnatureclub.example.org"
+    },
+    {
+      "name": "Shishuvihar Trust Bhavnagar",
+      "focus": "Child welfare and education",
+      "contact": "contact@shishuvihar.example.org"
+    },
+    {
+      "name": "Green Bhavnagar Foundation",
+      "focus": "Tree plantation and urban greening",
+      "contact": "hello@greenbhavnagar.example.org"
+    },
+    {
+      "name": "Blue Cross Bhavnagar",
+      "focus": "Animal welfare and rescue",
+      "contact": "rescue@bluecrossbvn.example.org"
+    }
+  ],
+  "waste_collection_centers": [
+    {
+      "name": "BMC Waste Transfer Station - Ghogha Road",
+      "latitude": 21.7845,
+      "longitude": 72.158,
+      "capacity_tonnes_per_day": 40
+    },
+    {
+      "name": "BMC Waste Transfer Station - Vidyanagar",
+      "latitude": 21.752,
+      "longitude": 72.14,
+      "capacity_tonnes_per_day": 25
+    },
+    {
+      "name": "Dry Waste Segregation Center - Kaliyabid",
+      "latitude": 21.7695,
+      "longitude": 72.1435,
+      "capacity_tonnes_per_day": 15
+    }
+  ],
+  "blood_banks": [
+    {
+      "name": "Sir T Hospital Blood Bank",
+      "address": "Jail Road, Bhavnagar",
+      "phone": "0278-2519911",
+      "latitude": 21.7712,
+      "longitude": 72.1493
+    },
+    {
+      "name": "Indian Red Cross Society Blood Bank Bhavnagar",
+      "address": "Kaliyabid, Bhavnagar",
+      "phone": "0278-2567711",
+      "latitude": 21.7688,
+      "longitude": 72.1447
+    }
+  ],
+  "ambulance_services": [
+    {
+      "name": "GVK EMRI 108 Ambulance",
+      "phone": "108",
+      "coverage": "City-wide, free emergency response"
+    },
+    {
+      "name": "Bhavnagar Municipal Corporation Ambulance",
+      "phone": "0278-2519600",
+      "coverage": "City-wide"
+    },
+    {
+      "name": "Red Cross Ambulance Service",
+      "phone": "0278-2567700",
+      "coverage": "City and nearby villages"
+    }
+  ],
+  "public_toilets": [
+    {
+      "name": "Public Toilet Complex - Ganga Jalia Talav",
+      "latitude": 21.7737,
+      "longitude": 72.1502,
+      "status": "operational"
+    },
+    {
+      "name": "Public Toilet Complex - Bus Stand",
+      "latitude": 21.7628,
+      "longitude": 72.1467,
+      "status": "operational"
+    },
+    {
+      "name": "Public Toilet Complex - Takhteshwar Road",
+      "latitude": 21.77,
+      "longitude": 72.153,
+      "status": "operational"
+    }
+  ],
+  "tree_plantation_areas": [
+    {
+      "name": "Ghogha Road Green Belt",
+      "trees_planted": 4200,
+      "area_hectares": 6.5,
+      "latitude": 21.783,
+      "longitude": 72.156
+    },
+    {
+      "name": "Victoria Park Extension Plantation",
+      "trees_planted": 1800,
+      "area_hectares": 2.1,
+      "latitude": 21.757,
+      "longitude": 72.142
+    },
+    {
+      "name": "Waghawadi Road Avenue Plantation",
+      "trees_planted": 2600,
+      "area_hectares": 3.4,
+      "latitude": 21.76,
+      "longitude": 72.161
+    }
+  ],
+  "environmental_projects": [
+    {
+      "name": "Bhavnagar Coastal Mangrove Restoration",
+      "description": "Mangrove restoration along the Gulf of Khambhat coastline to protect against erosion.",
+      "status": "ongoing"
+    },
+    {
+      "name": "City-wide LED Streetlight Retrofit",
+      "description": "Replacement of municipal streetlights with energy-efficient LEDs.",
+      "status": "completed"
+    },
+    {
+      "name": "Solar Rooftop Mission - Bhavnagar",
+      "description": "Incentivized solar rooftop installation drive for households and offices.",
+      "status": "ongoing"
+    }
+  ],
+  "rainwater_harvesting_sites": [
+    {
+      "name": "Bhavnagar Collectorate RWH System",
+      "latitude": 21.7695,
+      "longitude": 72.1508,
+      "capacity_litres": 50000
+    },
+    {
+      "name": "Gaurishankar Lake Catchment Recharge",
+      "latitude": 21.7735,
+      "longitude": 72.1498,
+      "capacity_litres": 120000
+    },
+    {
+      "name": "Municipal School RWH Pilot - Vidyanagar",
+      "latitude": 21.7552,
+      "longitude": 72.1418,
+      "capacity_litres": 15000
+    }
+  ],
+  "smart_city_projects": [
+    {
+      "name": "Bhavnagar Integrated Command and Control Centre",
+      "description": "Centralized monitoring of traffic, CCTV and municipal services.",
+      "status": "operational"
+    },
+    {
+      "name": "Smart Water Metering Project",
+      "description": "IoT-enabled water meters for leak detection and billing accuracy.",
+      "status": "ongoing"
+    },
+    {
+      "name": "Public Wi-Fi Zones Initiative",
+      "description": "Free Wi-Fi hotspots at major public squares and gardens.",
+      "status": "operational"
+    }
+  ]
+}
